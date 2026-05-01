@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "name": "test",
+    "email": "test@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "created_at": "2026-04-24 23:13:01"
+  },
+  {
+    "id": 2,
+    "name": "444",
+    "email": "kamal@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "created_at": "2026-04-25 05:54:17"
+  },
+  {
+    "id": 3,
+    "name": "supun",
+    "email": "supun@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "created_at": "2026-04-25 05:59:48"
+  },
+  {
+    "id": 4,
+    "name": "student",
+    "email": "student@123",
+    "password": "123456",
+    "role": "user",
+    "created_at": "2026-04-25 07:09:37"
+  },
+  {
+    "id": 5,
+    "name": "perera",
+    "email": "staff@test.com",
+    "password": "123456",
+    "role": "staff"
+  },
+  {
+    "id": 6,
+    "name": "geeneth ",
+    "email": "geenethperera88@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "created_at": "2026-04-26 19:50:24"
+  },
+  {
+    "id": 7,
+    "name": "cinnamon ",
+    "email": "cinnamon@test.com",
+    "password": "123456",
+    "role": "staff"
+  },
+  {
+    "id": 8,
+    "name": "admin",
+    "email": "admin@test.com",
+    "password": "123456",
+    "role": "user",
+    "created_at": "2026-04-26 22:15:55"
+  },
+  {
+    "email": "",
+    "password": "",
+    "role": "admin"
+  },
+  {
+    "id": 10,
+    "name": "staff1",
+    "email": "staff1@test.com",
+    "password": "123456",
+    "role": "staff"
+  },
+  {
+    "email": "admin1@test.com",
+    "password": "123456",
+    "role": "admin"
+  },
+  {
+    "id": 12,
+    "name": "anush",
+    "email": "anush@test.com",
+    "password": "123456",
+    "role": "user",
+    "created_at": "2026-04-27 03:29:13"
+  }
+]

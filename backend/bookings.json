@@ -1,0 +1,5748 @@
+[
+  {
+    "id": 1,
+    "booking_ref": "PG-20260424-0001",
+    "user": "test@gmail.com",
+    "hotel": "Ella View Lodge",
+    "destination": "Sigiriya",
+    "date": "Flexible",
+    "nights": 1,
+    "travelers": 1,
+    "total": 60700,
+    "status": "confirmed",
+    "created_at": "2026-04-24 23:32:28"
+  },
+  {
+    "id": 2,
+    "booking_ref": "PG-20260425-0002",
+    "user": "test@gmail.com",
+    "hotel": "Yala Signature Stay",
+    "destination": "Yala",
+    "date": "2026-04-30",
+    "nights": 1,
+    "travelers": 1,
+    "total": 102200,
+    "status": "confirmed",
+    "created_at": "2026-04-25 00:51:04"
+  },
+  {
+    "id": 3,
+    "booking_ref": "PG-20260425-0003",
+    "user": "test@gmail.com",
+    "hotel": "Nuwara Eliya city Hotel",
+    "destination": "Nuwara Eliya",
+    "date": "2026-04-30",
+    "nights": 1,
+    "travelers": 1,
+    "total": 62000,
+    "status": "confirmed",
+    "created_at": "2026-04-25 00:59:18"
+  },
+  {
+    "id": 4,
+    "booking_ref": "PG-20260425-0004",
+    "user": "test@gmail.com",
+    "hotel": "Kandy Signature Stay",
+    "destination": "Kandy",
+    "date": "2026-04-30",
+    "nights": 1,
+    "travelers": 1,
+    "total": 26000,
+    "status": "confirmed",
+    "created_at": "2026-04-25 01:10:31"
+  },
+  {
+    "id": 5,
+    "booking_ref": "PG-20260425-0005",
+    "user": "test@gmail.com",
+    "hotel": "Yala Elite Escape",
+    "destination": "Yala",
+    "date": "2026-04-30",
+    "nights": 1,
+    "travelers": 1,
+    "total": 78000,
+    "status": "confirmed",
+    "created_at": "2026-04-25 01:12:18"
+  },
+  {
+    "id": 6,
+    "booking_ref": "PG-20260425-6",
+    "user": "test@gmail.com",
+    "hotel": "Nuwara Eliya view 360",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/luxury/4.jpg",
+    "hotelDescription": "A luxury hotel in Nuwara Eliya, offering a premium escape designed for memorable travel and elegant comfort. Selected for travelers who want a smoother and more curated stay experience.",
+    "destination": "Nuwara Eliya",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "nights": 1,
+    "travelers": 3,
+    "total": 150000,
+    "hotelTotal": 150000,
+    "tripBudget": 399600,
+    "transport": "Bus",
+    "budgetLevel": "Luxury",
+    "hotelCategory": "Luxury",
+    "interest": "Luxury",
+    "itinerary": [
+      "Leave Colombo by Bus and travel to Nuwara Eliya with 3 traveler(s). Reach around late morning, check in to Nuwara Eliya Signature Stay around 11 AM to 12 PM, relax, enjoy lunch at Luxury highland dining, then visit Tea estate visit. In the evening, enjoy dinner at Signature tea-country lunch and stay overnight."
+    ],
+    "food": [
+      "Luxury highland dining",
+      "Signature tea-country lunch",
+      "Private fine dinner"
+    ],
+    "activities": [
+      "Tea estate visit",
+      "Lake Gregory",
+      "Garden walk"
+    ],
+    "budgetInfo": {
+      "hotel": 315000,
+      "transport": 15000,
+      "food": 36000,
+      "activities": 33600,
+      "estimate": 399600,
+      "balance": 0
+    },
+    "fullPlan": {
+      "destination": "Nuwara Eliya",
+      "duration": 1,
+      "budgetLevel": "Luxury",
+      "budget": {
+        "activities": 30000,
+        "balance": 0,
+        "breakdown": {
+          "activity_price_per_person_per_day": 10000,
+          "hotel_per_night": 105000,
+          "meal_price_per_person": 4000,
+          "meals_per_person": 3
+        },
+        "estimate": 186000,
+        "food": 36000,
+        "hotel": 105000,
+        "transport": 15000
+      },
+      "interest": "Luxury",
+      "transport": "Bus",
+      "travelers": 3,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "2026-05-01",
+      "summary": "A Luxury trip to Nuwara Eliya for 1 night(s), traveling by Bus, staying at Nuwara Eliya view 360.",
+      "itinerary": [
+        "Leave Colombo by Bus and travel to Nuwara Eliya with 3 traveler(s). Reach around late morning, check in to Nuwara Eliya Signature Stay around 11 AM to 12 PM, relax, enjoy lunch at Luxury highland dining, then visit Tea estate visit. In the evening, enjoy dinner at Signature tea-country lunch and stay overnight."
+      ],
+      "budgetInfo": {
+        "hotel": 315000,
+        "transport": 15000,
+        "food": 36000,
+        "activities": 33600,
+        "estimate": 399600,
+        "balance": 0
+      },
+      "hotels": [
+        {
+          "name": "Nuwara Eliya Signature Stay",
+          "description": "A luxury hotel in Nuwara Eliya, offering a calm and comfortable stay with strong location value. Selected for travelers who want a smoother and more curated stay experience.",
+          "pricePerNight": 105000,
+          "image": "/src/assets/hotels/nuwara-eliya/luxury/1.jpg",
+          "features": [
+            "Private comfort",
+            "Luxury service",
+            "Premium view"
+          ]
+        },
+        {
+          "name": "Nuwara Eliya city Hotel",
+          "description": "A luxury hotel in Nuwara Eliya, offering a polished hotel experience with better room quality and atmosphere. Selected for travelers who want a smoother and more curated stay experience.",
+          "pricePerNight": 118000,
+          "image": "/src/assets/hotels/nuwara-eliya/luxury/2.jpg",
+          "features": [
+            "Elite rooms",
+            "Fine dining",
+            "Signature stay"
+          ]
+        },
+        {
+          "name": "Nuwara Eliya Grand hotel",
+          "description": "A luxury hotel in Nuwara Eliya, offering a refined retreat with scenic mood and stronger service. Selected for travelers who want a smoother and more curated stay experience.",
+          "pricePerNight": 132000,
+          "image": "/src/assets/hotels/nuwara-eliya/luxury/3.jpg",
+          "features": [
+            "Exclusive mood",
+            "Luxury design",
+            "Best photos"
+          ]
+        },
+        {
+          "name": "Nuwara Eliya view 360",
+          "description": "A luxury hotel in Nuwara Eliya, offering a premium escape designed for memorable travel and elegant comfort. Selected for travelers who want a smoother and more curated stay experience.",
+          "pricePerNight": 150000,
+          "image": "/src/assets/hotels/nuwara-eliya/luxury/4.jpg",
+          "features": [
+            "Top-tier stay",
+            "VIP feeling",
+            "Ultra premium"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "name": "Nuwara Eliya view 360",
+        "description": "A luxury hotel in Nuwara Eliya, offering a premium escape designed for memorable travel and elegant comfort. Selected for travelers who want a smoother and more curated stay experience.",
+        "pricePerNight": 150000,
+        "image": "/src/assets/hotels/nuwara-eliya/luxury/4.jpg",
+        "features": [
+          "Top-tier stay",
+          "VIP feeling",
+          "Ultra premium"
+        ]
+      },
+      "food": [
+        "Luxury highland dining",
+        "Signature tea-country lunch",
+        "Private fine dinner"
+      ],
+      "activities": [
+        "Tea estate visit",
+        "Lake Gregory",
+        "Garden walk"
+      ],
+      "hotelCategory": "Luxury",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "success": true,
+      "user": "test@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 02:16:25"
+  },
+  {
+    "id": 7,
+    "booking_ref": "PG-20260425-0007",
+    "user": "test@gmail.com",
+    "hotel": "Kandy Signature Stay",
+    "hotelImage": "/src/assets/hotels/kandy/high/1.jpg",
+    "hotelDescription": "A high hotel in Kandy, offering a calm and comfortable stay with strong location value. Selected for travelers who want a smoother and more curated stay experience.",
+    "destination": "Kandy",
+    "date": "2026-05-08",
+    "checkoutDate": "2026-05-11",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 168000,
+    "hotelTotal": 168000,
+    "tripBudget": 273600,
+    "transport": "Private Car",
+    "budgetLevel": "High",
+    "hotelCategory": "High",
+    "interest": "Beach",
+    "itinerary": [
+      "Leave Colombo by Private Car and travel to Kandy with 2 traveler(s). Reach around late morning, check in to Kandy Signature Stay around 11 AM to 12 PM, relax, enjoy lunch at Premium city dining, then visit Temple of the Tooth. In the evening, enjoy dinner at Lake-view cafe and stay overnight.",
+      "Start with breakfast at Elegant evening restaurant, continue with Kandy Lake walk, enjoy lunch during the day, relax in the evening, and return to Kandy Signature Stay for dinner and overnight stay.",
+      "Start with breakfast at Elegant evening restaurant, continue with Kandy Lake walk, enjoy lunch during the day, relax in the evening, and return to Kandy Signature Stay for dinner and overnight stay."
+    ],
+    "food": [
+      "Premium city dining",
+      "Lake-view cafe",
+      "Elegant evening restaurant"
+    ],
+    "activities": [
+      "Temple of the Tooth",
+      "Kandy Lake walk",
+      "Cultural city tour"
+    ],
+    "budgetInfo": {
+      "hotel": 168000,
+      "transport": 36000,
+      "food": 36000,
+      "activities": 33600,
+      "estimate": 273600,
+      "balance": 0
+    },
+    "fullPlan": {
+      "destination": "Kandy",
+      "nights": 3,
+      "duration": 3,
+      "budgetLevel": "High",
+      "budget": {
+        "activities": 30000,
+        "balance": 0,
+        "breakdown": {
+          "activity_price_per_person_per_day": 5000,
+          "hotel_per_night": 56000,
+          "meal_price_per_person": 2000,
+          "meals_per_person": 9
+        },
+        "estimate": 270000,
+        "food": 36000,
+        "hotel": 168000,
+        "transport": 36000
+      },
+      "interest": "Beach",
+      "transport": "Private Car",
+      "travelers": 2,
+      "travelDate": "2026-05-08",
+      "checkoutDate": "2026-05-11",
+      "summary": "A High trip to Kandy for 3 night(s), traveling by Private Car, staying at Kandy Signature Stay.",
+      "itinerary": [
+        "Leave Colombo by Private Car and travel to Kandy with 2 traveler(s). Reach around late morning, check in to Kandy Signature Stay around 11 AM to 12 PM, relax, enjoy lunch at Premium city dining, then visit Temple of the Tooth. In the evening, enjoy dinner at Lake-view cafe and stay overnight.",
+        "Start with breakfast at Elegant evening restaurant, continue with Kandy Lake walk, enjoy lunch during the day, relax in the evening, and return to Kandy Signature Stay for dinner and overnight stay.",
+        "Start with breakfast at Elegant evening restaurant, continue with Kandy Lake walk, enjoy lunch during the day, relax in the evening, and return to Kandy Signature Stay for dinner and overnight stay."
+      ],
+      "budgetInfo": {
+        "hotel": 168000,
+        "transport": 36000,
+        "food": 36000,
+        "activities": 33600,
+        "estimate": 273600,
+        "balance": 0
+      },
+      "hotels": [
+        {
+          "name": "Kandy Signature Stay",
+          "description": "A high hotel in Kandy, offering a calm and comfortable stay with strong location value. Selected for travelers who want a smoother and more curated stay experience.",
+          "pricePerNight": 56000,
+          "image": "/src/assets/hotels/kandy/high/1.jpg",
+          "features": [
+            "Best value",
+            "Comfort stay",
+            "Good access"
+          ]
+        },
+        {
+          "name": "Kandy city Hotel",
+          "description": "A high hotel in Kandy, offering a polished hotel experience with better room quality and atmosphere. Selected for travelers who want a smoother and more curated stay experience.",
+          "pricePerNight": 62000,
+          "image": "/src/assets/hotels/kandy/high/2.jpg",
+          "features": [
+            "Scenic feel",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "name": "Kandy Grand hotel",
+          "description": "A high hotel in Kandy, offering a refined retreat with scenic mood and stronger service. Selected for travelers who want a smoother and more curated stay experience.",
+          "pricePerNight": 70000,
+          "image": "/src/assets/hotels/kandy/high/3.jpg",
+          "features": [
+            "Premium mood",
+            "Relaxing",
+            "Photo friendly"
+          ]
+        },
+        {
+          "name": "Kandy view 360",
+          "description": "A high hotel in Kandy, offering a premium escape designed for memorable travel and elegant comfort. Selected for travelers who want a smoother and more curated stay experience.",
+          "pricePerNight": 78000,
+          "image": "/src/assets/hotels/kandy/high/4.jpg",
+          "features": [
+            "Top match",
+            "Luxury feel",
+            "Selected style"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "name": "Kandy Signature Stay",
+        "description": "A high hotel in Kandy, offering a calm and comfortable stay with strong location value. Selected for travelers who want a smoother and more curated stay experience.",
+        "pricePerNight": 56000,
+        "image": "/src/assets/hotels/kandy/high/1.jpg",
+        "features": [
+          "Best value",
+          "Comfort stay",
+          "Good access"
+        ]
+      },
+      "food": [
+        "Premium city dining",
+        "Lake-view cafe",
+        "Elegant evening restaurant"
+      ],
+      "activities": [
+        "Temple of the Tooth",
+        "Kandy Lake walk",
+        "Cultural city tour"
+      ],
+      "hotelCategory": "High",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "success": true,
+      "user": "test@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 03:01:41"
+  },
+  {
+    "id": 8,
+    "booking_ref": "PG-20260425-0008",
+    "user": "test@gmail.com",
+    "hotel": "Nuwara Eliya Premium View Hotel",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/high/3.jpg",
+    "hotelDescription": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+    "destination": "Nuwara Eliya",
+    "date": "2026-05-02",
+    "checkoutDate": "2026-05-04",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 2,
+    "travelers": 2,
+    "total": 140000,
+    "hotelTotal": 140000,
+    "tripBudget": 107600,
+    "transport": "Private Car",
+    "budgetLevel": "High",
+    "hotelCategory": "High",
+    "interest": "Luxury",
+    "itinerary": [
+      "Leave Colombo by Private Car and travel to Nuwara Eliya with 2 traveler(s). Reach around late morning, check in to Nuwara Eliya Signature Stay around 11 AM to 12 PM, relax, enjoy lunch at Local tea-town eatery, then visit Tea estate visit. In the evening, enjoy dinner at Budget rice and curry and stay overnight.",
+      "Start with breakfast at Simple breakfast cafe, continue with Lake Gregory, enjoy lunch during the day, relax in the evening, and return to Nuwara Eliya Signature Stay for dinner and overnight stay."
+    ],
+    "food": [
+      "Local tea-town eatery",
+      "Budget rice and curry",
+      "Simple breakfast cafe"
+    ],
+    "activities": [
+      "Tea estate visit",
+      "Lake Gregory",
+      "Garden walk"
+    ],
+    "budgetInfo": {
+      "hotel": 24000,
+      "transport": 36000,
+      "food": 24000,
+      "activities": 23600,
+      "estimate": 107600,
+      "balance": 0
+    },
+    "fullPlan": {
+      "destination": "Nuwara Eliya",
+      "nights": 2,
+      "duration": 2,
+      "budgetLevel": "High",
+      "budget": {
+        "activities": 4000,
+        "balance": 0,
+        "breakdown": {
+          "activity_price_per_person_per_day": 1000,
+          "hotel_per_night": 12000,
+          "meal_price_per_person": 500,
+          "meals_per_person": 6
+        },
+        "estimate": 70000,
+        "food": 6000,
+        "hotel": 24000,
+        "transport": 36000
+      },
+      "interest": "Luxury",
+      "transport": "Private Car",
+      "travelers": 2,
+      "travelDate": "2026-05-02",
+      "checkoutDate": "2026-05-04",
+      "summary": "A High trip to Nuwara Eliya for 2 night(s), traveling by Private Car, staying at Nuwara Eliya Premium View Hotel.",
+      "itinerary": [
+        "Leave Colombo by Private Car and travel to Nuwara Eliya with 2 traveler(s). Reach around late morning, check in to Nuwara Eliya Signature Stay around 11 AM to 12 PM, relax, enjoy lunch at Local tea-town eatery, then visit Tea estate visit. In the evening, enjoy dinner at Budget rice and curry and stay overnight.",
+        "Start with breakfast at Simple breakfast cafe, continue with Lake Gregory, enjoy lunch during the day, relax in the evening, and return to Nuwara Eliya Signature Stay for dinner and overnight stay."
+      ],
+      "budgetInfo": {
+        "hotel": 24000,
+        "transport": 36000,
+        "food": 24000,
+        "activities": 23600,
+        "estimate": 107600,
+        "balance": 0
+      },
+      "hotels": [
+        {
+          "id": "High-1",
+          "name": "Nuwara Eliya Grand Retreat",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 56000,
+          "pricePerNight": 56000,
+          "price_per_night": 56000,
+          "image": "/src/assets/hotels/nuwara-eliya/high/1.jpg",
+          "features": [
+            "Premium rooms",
+            "Scenic mood",
+            "Better service"
+          ]
+        },
+        {
+          "id": "High-2",
+          "name": "Nuwara Eliya Heritage Resort",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 62000,
+          "pricePerNight": 62000,
+          "price_per_night": 62000,
+          "image": "/src/assets/hotels/nuwara-eliya/high/2.jpg",
+          "features": [
+            "Heritage style",
+            "Elegant",
+            "Photo friendly"
+          ]
+        },
+        {
+          "id": "High-3",
+          "name": "Nuwara Eliya Premium View Hotel",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 70000,
+          "pricePerNight": 70000,
+          "price_per_night": 70000,
+          "image": "/src/assets/hotels/nuwara-eliya/high/3.jpg",
+          "features": [
+            "View point",
+            "Premium comfort",
+            "Relaxing"
+          ]
+        },
+        {
+          "id": "High-4",
+          "name": "Nuwara Eliya Royal Garden Stay",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 78000,
+          "pricePerNight": 78000,
+          "price_per_night": 78000,
+          "image": "/src/assets/hotels/nuwara-eliya/high/4.jpg",
+          "features": [
+            "Royal feel",
+            "Garden view",
+            "Top match"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "High-3",
+        "name": "Nuwara Eliya Premium View Hotel",
+        "category": "High",
+        "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+        "price": 70000,
+        "pricePerNight": 70000,
+        "price_per_night": 70000,
+        "image": "/src/assets/hotels/nuwara-eliya/high/3.jpg",
+        "features": [
+          "View point",
+          "Premium comfort",
+          "Relaxing"
+        ]
+      },
+      "food": [
+        "Local tea-town eatery",
+        "Budget rice and curry",
+        "Simple breakfast cafe"
+      ],
+      "activities": [
+        "Tea estate visit",
+        "Lake Gregory",
+        "Garden walk"
+      ],
+      "hotelCategory": "High",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "success": true,
+      "user": "test@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 03:40:22"
+  },
+  {
+    "id": 9,
+    "booking_ref": "PG-20260425-0009",
+    "user": "test@gmail.com",
+    "hotel": "Yala Premium View Hotel",
+    "hotelImage": "/src/assets/hotels/yala/high/3.jpg",
+    "hotelDescription": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+    "destination": "Yala",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 2,
+    "travelers": 2,
+    "total": 140000,
+    "hotelTotal": 140000,
+    "tripBudget": 215600,
+    "transport": "Taxi",
+    "budgetLevel": "High",
+    "hotelCategory": "High",
+    "interest": "Luxury",
+    "itinerary": [
+      "Leave Colombo by Taxi and travel to Yala with 2 traveler(s). Reach around late morning, check in to Yala Signature Stay around 11 AM to 12 PM, relax, enjoy lunch at Simple safari-area eatery, then visit Safari jeep ride. In the evening, enjoy dinner at Budget rice and curry and stay overnight.",
+      "Start with breakfast at Tea stop breakfast, continue with Nature spotting, enjoy lunch during the day, relax in the evening, and return to Yala Signature Stay for dinner and overnight stay."
+    ],
+    "food": [
+      "Simple safari-area eatery",
+      "Budget rice and curry",
+      "Tea stop breakfast"
+    ],
+    "activities": [
+      "Safari jeep ride",
+      "Nature spotting",
+      "Sunrise view"
+    ],
+    "budgetInfo": {
+      "hotel": 140000,
+      "transport": 28000,
+      "food": 24000,
+      "activities": 23600,
+      "estimate": 215600,
+      "balance": 0
+    },
+    "fullPlan": {
+      "destination": "Yala",
+      "nights": 2,
+      "duration": 2,
+      "budgetLevel": "High",
+      "budget": {
+        "activities": 4000,
+        "balance": 0,
+        "breakdown": {
+          "activity_price_per_person_per_day": 1000,
+          "hotel_per_night": 12000,
+          "meal_price_per_person": 500,
+          "meals_per_person": 6
+        },
+        "estimate": 62000,
+        "food": 6000,
+        "hotel": 24000,
+        "transport": 28000
+      },
+      "interest": "Luxury",
+      "transport": "Taxi",
+      "travelers": 2,
+      "travelDate": "2026-04-29",
+      "checkoutDate": "2026-05-01",
+      "summary": "A High trip to Yala for 2 night(s), traveling by Taxi, staying at Yala Premium View Hotel.",
+      "itinerary": [
+        "Leave Colombo by Taxi and travel to Yala with 2 traveler(s). Reach around late morning, check in to Yala Signature Stay around 11 AM to 12 PM, relax, enjoy lunch at Simple safari-area eatery, then visit Safari jeep ride. In the evening, enjoy dinner at Budget rice and curry and stay overnight.",
+        "Start with breakfast at Tea stop breakfast, continue with Nature spotting, enjoy lunch during the day, relax in the evening, and return to Yala Signature Stay for dinner and overnight stay."
+      ],
+      "budgetInfo": {
+        "hotel": 140000,
+        "transport": 28000,
+        "food": 24000,
+        "activities": 23600,
+        "estimate": 215600,
+        "balance": 0
+      },
+      "hotels": [
+        {
+          "id": "High-1",
+          "name": "Yala Grand Retreat",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 56000,
+          "pricePerNight": 56000,
+          "price_per_night": 56000,
+          "image": "/src/assets/hotels/yala/high/1.jpg",
+          "features": [
+            "Premium rooms",
+            "Scenic mood",
+            "Better service"
+          ]
+        },
+        {
+          "id": "High-2",
+          "name": "Yala Heritage Resort",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 62000,
+          "pricePerNight": 62000,
+          "price_per_night": 62000,
+          "image": "/src/assets/hotels/yala/high/2.jpg",
+          "features": [
+            "Heritage style",
+            "Elegant",
+            "Photo friendly"
+          ]
+        },
+        {
+          "id": "High-3",
+          "name": "Yala Premium View Hotel",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 70000,
+          "pricePerNight": 70000,
+          "price_per_night": 70000,
+          "image": "/src/assets/hotels/yala/high/3.jpg",
+          "features": [
+            "View point",
+            "Premium comfort",
+            "Relaxing"
+          ]
+        },
+        {
+          "id": "High-4",
+          "name": "Yala Royal Garden Stay",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 78000,
+          "pricePerNight": 78000,
+          "price_per_night": 78000,
+          "image": "/src/assets/hotels/yala/high/4.jpg",
+          "features": [
+            "Royal feel",
+            "Garden view",
+            "Top match"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "High-3",
+        "name": "Yala Premium View Hotel",
+        "category": "High",
+        "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+        "price": 70000,
+        "pricePerNight": 70000,
+        "price_per_night": 70000,
+        "image": "/src/assets/hotels/yala/high/3.jpg",
+        "features": [
+          "View point",
+          "Premium comfort",
+          "Relaxing"
+        ]
+      },
+      "food": [
+        "Simple safari-area eatery",
+        "Budget rice and curry",
+        "Tea stop breakfast"
+      ],
+      "activities": [
+        "Safari jeep ride",
+        "Nature spotting",
+        "Sunrise view"
+      ],
+      "hotelCategory": "High",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "success": true,
+      "user": "test@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 03:49:27"
+  },
+  {
+    "id": 10,
+    "booking_ref": "PG-20260425-0010",
+    "user": "test@gmail.com",
+    "hotel": "Yala Elite Escape",
+    "hotelImage": "/src/assets/hotels/yala/high/4.jpg",
+    "hotelDescription": "A high hotel in Yala, offering a premium escape designed for memorable travel and elegant comfort. Selected for travelers who want a smoother and more curated stay experience.",
+    "destination": "Yala",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 78000,
+    "hotelTotal": 78000,
+    "tripBudget": 102200,
+    "transport": "Train",
+    "budgetLevel": "High",
+    "hotelCategory": "High",
+    "interest": "Luxury",
+    "itinerary": [
+      "Leave Colombo early by train and travel to Yala. Reach around late morning, check in to Yala Elite Escape around 11 AM to 12 PM, relax after arrival, enjoy lunch at Premium restaurant, then start your luxury experience with Safari jeep ride. In the evening, enjoy dinner at Scenic cafe lunch and stay overnight at the hotel."
+    ],
+    "food": [
+      "Premium restaurant",
+      "Scenic cafe lunch",
+      "Fine dinner place"
+    ],
+    "activities": [
+      "Safari jeep ride",
+      "Nature spotting",
+      "Sunrise view",
+      "Evening relaxation",
+      "Premium dining stop",
+      "Elegant leisure time"
+    ],
+    "budgetInfo": {
+      "hotel": 78000,
+      "transport": 6000,
+      "food": 6000,
+      "activities": 12200,
+      "estimate": 102200,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Yala Elite Escape",
+      "hotelPricePerNight": 78000
+    },
+    "fullPlan": {
+      "activities": [
+        "Safari jeep ride",
+        "Nature spotting",
+        "Sunrise view",
+        "Evening relaxation",
+        "Premium dining stop",
+        "Elegant leisure time"
+      ],
+      "budget": "Luxury",
+      "budgetInfo": {
+        "hotel": 78000,
+        "transport": 6000,
+        "food": 6000,
+        "activities": 12200,
+        "estimate": 102200,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Yala Elite Escape",
+        "hotelPricePerNight": 78000
+      },
+      "budgetLevel": "High",
+      "checkoutDate": "2026-05-01",
+      "destination": "Yala",
+      "duration": 1,
+      "food": [
+        "Premium restaurant",
+        "Scenic cafe lunch",
+        "Fine dinner place"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "High",
+      "hotels": [
+        {
+          "description": "A high hotel in Yala, offering a calm and comfortable stay with strong location value. Selected for travelers who want a smoother and more curated stay experience.",
+          "features": [
+            "Best value",
+            "Comfort stay",
+            "Good access"
+          ],
+          "image": "/src/assets/hotels/yala/high/1.jpg",
+          "name": "Yala Signature Stay",
+          "pricePerNight": 56000
+        },
+        {
+          "description": "A high hotel in Yala, offering a polished hotel experience with better room quality and atmosphere. Selected for travelers who want a smoother and more curated stay experience.",
+          "features": [
+            "Scenic feel",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "image": "/src/assets/hotels/yala/high/2.jpg",
+          "name": "Yala View Boutique Hotel",
+          "pricePerNight": 62000
+        },
+        {
+          "description": "A high hotel in Yala, offering a refined retreat with scenic mood and stronger service. Selected for travelers who want a smoother and more curated stay experience.",
+          "features": [
+            "Premium mood",
+            "Relaxing",
+            "Photo friendly"
+          ],
+          "image": "/src/assets/hotels/yala/high/3.jpg",
+          "name": "Yala Grand Retreat",
+          "pricePerNight": 70000
+        },
+        {
+          "description": "A high hotel in Yala, offering a premium escape designed for memorable travel and elegant comfort. Selected for travelers who want a smoother and more curated stay experience.",
+          "features": [
+            "Top match",
+            "Luxury feel",
+            "Selected style"
+          ],
+          "image": "/src/assets/hotels/yala/high/4.jpg",
+          "name": "Yala Elite Escape",
+          "pricePerNight": 78000
+        }
+      ],
+      "id": 6,
+      "interest": "Luxury",
+      "itinerary": [
+        "Leave Colombo early by train and travel to Yala. Reach around late morning, check in to Yala Elite Escape around 11 AM to 12 PM, relax after arrival, enjoy lunch at Premium restaurant, then start your luxury experience with Safari jeep ride. In the evening, enjoy dinner at Scenic cafe lunch and stay overnight at the hotel."
+      ],
+      "notes": "",
+      "savedAt": "2026-04-24T12:17:46.905Z",
+      "saved_at": "2026-04-24 23:14:57",
+      "season": "",
+      "selectedHotel": {
+        "description": "A high hotel in Yala, offering a premium escape designed for memorable travel and elegant comfort. Selected for travelers who want a smoother and more curated stay experience.",
+        "features": [
+          "Top match",
+          "Luxury feel",
+          "Selected style"
+        ],
+        "image": "/src/assets/hotels/yala/high/4.jpg",
+        "name": "Yala Elite Escape",
+        "pricePerNight": 78000
+      },
+      "summary": "A High trip to Yala for 1 night(s), traveling by Train, staying at Yala Elite Escape.",
+      "transport": "Train",
+      "travelDate": "2026-04-30",
+      "travelers": 1,
+      "user": "test@gmail.com",
+      "nights": 1
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 04:11:45"
+  },
+  {
+    "user": "test@gmail.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa Boutique Retreat",
+    "hotelImage": "/src/assets/hotels/mirissa/medium/1.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 26000,
+    "hotelTotal": 26000,
+    "tripBudget": 38700,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Adventure",
+    "itinerary": [],
+    "food": [
+      "Restaurant"
+    ],
+    "activities": [
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 26000,
+      "transport": 6000,
+      "food": 3000,
+      "activities": 3700,
+      "estimate": 38700,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Mirissa Boutique Retreat",
+      "hotelPricePerNight": 26000
+    },
+    "fullPlan": {
+      "destination": "Mirissa",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": {
+        "activities": 3000,
+        "food": 5000,
+        "hotel": 20000,
+        "transport": 10000
+      },
+      "interest": "Adventure",
+      "transport": "Train",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Mirissa for 1 night(s), traveling by Train, staying at Mirissa Boutique Retreat.",
+      "itinerary": [],
+      "budgetInfo": {
+        "hotel": 26000,
+        "transport": 6000,
+        "food": 3000,
+        "activities": 3700,
+        "estimate": 38700,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Mirissa Boutique Retreat",
+        "hotelPricePerNight": 26000
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Mirissa Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Mirissa View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Mirissa Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Mirissa Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/hotels/mirissa/medium/4.jpg",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-1",
+        "name": "Mirissa Boutique Retreat",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 26000,
+        "pricePerNight": 26000,
+        "price_per_night": 26000,
+        "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+        "features": [
+          "Comfort stay",
+          "Better rooms",
+          "Popular pick"
+        ]
+      },
+      "food": [
+        "Restaurant"
+      ],
+      "activities": [
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "test@gmail.com"
+    },
+    "status": "confirmed",
+    "id": 11,
+    "created_at": "2026-04-25 04:46"
+  },
+  {
+    "user": "supun@gmail.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa View Residence",
+    "hotelImage": "/src/assets/hotels/mirissa/medium/2.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 2,
+    "travelers": 1,
+    "total": 59000,
+    "hotelTotal": 59000,
+    "tripBudget": 99200,
+    "transport": "Taxi",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [],
+    "food": [
+      "Restaurant"
+    ],
+    "activities": [
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 59000,
+      "transport": 28000,
+      "food": 6000,
+      "activities": 6200,
+      "estimate": 99200,
+      "balance": 0,
+      "nights": 2,
+      "travelers": 1,
+      "hotelName": "Mirissa View Residence",
+      "hotelPricePerNight": 29500
+    },
+    "fullPlan": {
+      "destination": "Mirissa",
+      "nights": 2,
+      "duration": 2,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Beach",
+      "transport": "Taxi",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Mirissa for 2 night(s), traveling by Taxi, staying at Mirissa View Residence.",
+      "itinerary": [],
+      "budgetInfo": {
+        "hotel": 59000,
+        "transport": 28000,
+        "food": 6000,
+        "activities": 6200,
+        "estimate": 99200,
+        "balance": 0,
+        "nights": 2,
+        "travelers": 1,
+        "hotelName": "Mirissa View Residence",
+        "hotelPricePerNight": 29500
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Mirissa Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Mirissa View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Mirissa Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Mirissa Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/hotels/mirissa/medium/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-2",
+        "name": "Mirissa View Residence",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 29500,
+        "pricePerNight": 29500,
+        "price_per_night": 29500,
+        "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+        "source": "default",
+        "rating": "4.8",
+        "features": [
+          "View rooms",
+          "Cafe nearby",
+          "Smooth access"
+        ]
+      },
+      "food": [
+        "Restaurant"
+      ],
+      "activities": [
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "id": 12,
+    "created_at": "2026-04-25 06:24"
+  },
+  {
+    "id": 13,
+    "booking_ref": "PG-1012",
+    "user": "admin",
+    "destination": "Kandy",
+    "hotel": "Kandy View Residence",
+    "hotelImage": "/src/assets/hotels/kandy/medium/2.jpg",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-03",
+    "nights": 3,
+    "travelers": 1,
+    "hotelTotal": 88500,
+    "tripBudget": 143400,
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Kandy, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Kandy, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Kandy, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 88500,
+      "transport": 36000,
+      "food": 9000,
+      "activities": 9900,
+      "estimate": 143400,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 1,
+      "hotelName": "Kandy View Residence",
+      "hotelPricePerNight": 29500
+    },
+    "fullPlan": {
+      "destination": "Kandy",
+      "nights": 3,
+      "duration": 3,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Culture",
+      "transport": "Private Car",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Kandy for 3 night(s), traveling by Private Car, staying at Kandy View Residence.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Kandy, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Kandy, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Kandy, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 88500,
+        "transport": 36000,
+        "food": 9000,
+        "activities": 9900,
+        "estimate": 143400,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 1,
+        "hotelName": "Kandy View Residence",
+        "hotelPricePerNight": 29500
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Kandy Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/kandy/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Kandy View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/kandy/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Kandy Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/kandy/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Kandy Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/places/kandy/1.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-2",
+        "name": "Kandy View Residence",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 29500,
+        "pricePerNight": 29500,
+        "price_per_night": 29500,
+        "image": "/src/assets/hotels/kandy/medium/2.jpg",
+        "source": "default",
+        "rating": "4.8",
+        "features": [
+          "View rooms",
+          "Cafe nearby",
+          "Smooth access"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 07:14"
+  },
+  {
+    "id": 14,
+    "booking_ref": "PG-1013",
+    "user": "admin",
+    "destination": "Kandy",
+    "hotel": "Kandy Boutique Retreat",
+    "hotelImage": "/src/assets/hotels/kandy/medium/1.jpg",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "nights": 1,
+    "travelers": 1,
+    "hotelTotal": 26000,
+    "tripBudget": 61900,
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Kandy, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 26000,
+      "transport": 28000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 61900,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Kandy Boutique Retreat",
+      "hotelPricePerNight": 26000
+    },
+    "fullPlan": {
+      "destination": "Kandy",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Culture",
+      "transport": "Taxi",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Kandy for 1 night(s), traveling by Taxi, staying at Kandy Boutique Retreat.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Kandy, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 26000,
+        "transport": 28000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 61900,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Kandy Boutique Retreat",
+        "hotelPricePerNight": 26000
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Kandy Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/kandy/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Kandy View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/kandy/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Kandy Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/kandy/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Kandy Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/places/kandy/1.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-1",
+        "name": "Kandy Boutique Retreat",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 26000,
+        "pricePerNight": 26000,
+        "price_per_night": 26000,
+        "image": "/src/assets/hotels/kandy/medium/1.jpg",
+        "source": "default",
+        "rating": "4.7",
+        "features": [
+          "Comfort stay",
+          "Better rooms",
+          "Popular pick"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 07:43"
+  },
+  {
+    "id": 15,
+    "booking_ref": "PG-20260425-0015",
+    "user": "admin",
+    "destination": "Sigiriya",
+    "hotel": "Sigiriya Comfort Resort",
+    "hotelImage": "/src/assets/hotels/sigiriya/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 33500,
+    "hotelTotal": 33500,
+    "tripBudget": 47400,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Nature",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Sigiriya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 33500,
+      "transport": 6000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 47400,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Sigiriya Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "destination": "Sigiriya",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Nature",
+      "transport": "Train",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Sigiriya for 1 night(s), traveling by Train, staying at Sigiriya Comfort Resort.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Sigiriya, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 33500,
+        "transport": 6000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 47400,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Sigiriya Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Sigiriya Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/sigiriya/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Sigiriya View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/sigiriya/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Sigiriya Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/sigiriya/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Sigiriya Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/hotels/sigiriya/medium/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-3",
+        "name": "Sigiriya Comfort Resort",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "image": "/src/assets/hotels/sigiriya/medium/3.jpg",
+        "source": "default",
+        "rating": "4.9",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 20:08"
+  },
+  {
+    "id": 16,
+    "booking_ref": "PG-20260425-0016",
+    "user": "admin",
+    "destination": "Nuwara Eliya",
+    "hotel": "Nuwara Eliya Comfort Resort",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 100500,
+    "hotelTotal": 100500,
+    "tripBudget": 147900,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 100500,
+      "transport": 12000,
+      "food": 18000,
+      "activities": 17400,
+      "estimate": 147900,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 2,
+      "hotelName": "Nuwara Eliya Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 100500,
+        "transport": 12000,
+        "food": 18000,
+        "activities": 17400,
+        "estimate": 147900,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 2,
+        "hotelName": "Nuwara Eliya Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Nuwara Eliya",
+      "duration": 3,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/1.jpg",
+          "name": "Nuwara Eliya Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/2.jpg",
+          "name": "Nuwara Eliya View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+          "name": "Nuwara Eliya Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/4.jpg",
+          "name": "Nuwara Eliya Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 7,
+      "interest": "Beach",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+        }
+      ],
+      "nights": 3,
+      "notes": "",
+      "saved_at": "2026-04-25 07:13",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+        "name": "Nuwara Eliya Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Nuwara Eliya for 3 night(s), traveling by Train, staying at Nuwara Eliya Comfort Resort.",
+      "transport": "Train",
+      "travelDate": "2026-04-29",
+      "travelers": 2,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 21:27"
+  },
+  {
+    "id": 17,
+    "booking_ref": "PG-20260425-0017",
+    "user": "admin",
+    "destination": "Nuwara Eliya",
+    "hotel": "Nuwara Eliya Comfort Resort",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 100500,
+    "hotelTotal": 100500,
+    "tripBudget": 147900,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 100500,
+      "transport": 12000,
+      "food": 18000,
+      "activities": 17400,
+      "estimate": 147900,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 2,
+      "hotelName": "Nuwara Eliya Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 100500,
+        "transport": 12000,
+        "food": 18000,
+        "activities": 17400,
+        "estimate": 147900,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 2,
+        "hotelName": "Nuwara Eliya Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Nuwara Eliya",
+      "duration": 3,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/1.jpg",
+          "name": "Nuwara Eliya Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/2.jpg",
+          "name": "Nuwara Eliya View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+          "name": "Nuwara Eliya Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/4.jpg",
+          "name": "Nuwara Eliya Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 7,
+      "interest": "Beach",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+        }
+      ],
+      "nights": 3,
+      "notes": "",
+      "saved_at": "2026-04-25 07:13",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+        "name": "Nuwara Eliya Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Nuwara Eliya for 3 night(s), traveling by Train, staying at Nuwara Eliya Comfort Resort.",
+      "transport": "Train",
+      "travelDate": "2026-04-29",
+      "travelers": 2,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 21:55"
+  },
+  {
+    "id": 18,
+    "booking_ref": "PG-20260425-0018",
+    "user": "admin",
+    "destination": "Nuwara Eliya",
+    "hotel": "Nuwara Eliya Comfort Resort",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 100500,
+    "hotelTotal": 100500,
+    "tripBudget": 147900,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 100500,
+      "transport": 12000,
+      "food": 18000,
+      "activities": 17400,
+      "estimate": 147900,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 2,
+      "hotelName": "Nuwara Eliya Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 100500,
+        "transport": 12000,
+        "food": 18000,
+        "activities": 17400,
+        "estimate": 147900,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 2,
+        "hotelName": "Nuwara Eliya Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Nuwara Eliya",
+      "duration": 3,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/1.jpg",
+          "name": "Nuwara Eliya Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/2.jpg",
+          "name": "Nuwara Eliya View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+          "name": "Nuwara Eliya Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/4.jpg",
+          "name": "Nuwara Eliya Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 7,
+      "interest": "Beach",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+        }
+      ],
+      "nights": 3,
+      "notes": "",
+      "saved_at": "2026-04-25 07:13",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+        "name": "Nuwara Eliya Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Nuwara Eliya for 3 night(s), traveling by Train, staying at Nuwara Eliya Comfort Resort.",
+      "transport": "Train",
+      "travelDate": "2026-04-29",
+      "travelers": 2,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 22:03"
+  },
+  {
+    "id": 19,
+    "booking_ref": "PG-20260425-0019",
+    "user": "admin",
+    "destination": "Nuwara Eliya",
+    "hotel": "Nuwara Eliya Comfort Resort",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 100500,
+    "hotelTotal": 100500,
+    "tripBudget": 147900,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 100500,
+      "transport": 12000,
+      "food": 18000,
+      "activities": 17400,
+      "estimate": 147900,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 2,
+      "hotelName": "Nuwara Eliya Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 100500,
+        "transport": 12000,
+        "food": 18000,
+        "activities": 17400,
+        "estimate": 147900,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 2,
+        "hotelName": "Nuwara Eliya Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Nuwara Eliya",
+      "duration": 3,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/1.jpg",
+          "name": "Nuwara Eliya Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/2.jpg",
+          "name": "Nuwara Eliya View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+          "name": "Nuwara Eliya Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/4.jpg",
+          "name": "Nuwara Eliya Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 7,
+      "interest": "Beach",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+        }
+      ],
+      "nights": 3,
+      "notes": "",
+      "saved_at": "2026-04-25 07:13",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+        "name": "Nuwara Eliya Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Nuwara Eliya for 3 night(s), traveling by Train, staying at Nuwara Eliya Comfort Resort.",
+      "transport": "Train",
+      "travelDate": "2026-04-29",
+      "travelers": 2,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 22:08"
+  },
+  {
+    "id": 20,
+    "booking_ref": "PG-20260425-0020",
+    "user": "admin",
+    "destination": "Nuwara Eliya",
+    "hotel": "Nuwara Eliya Comfort Resort",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 100500,
+    "hotelTotal": 100500,
+    "tripBudget": 147900,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 100500,
+      "transport": 12000,
+      "food": 18000,
+      "activities": 17400,
+      "estimate": 147900,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 2,
+      "hotelName": "Nuwara Eliya Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 100500,
+        "transport": 12000,
+        "food": 18000,
+        "activities": 17400,
+        "estimate": 147900,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 2,
+        "hotelName": "Nuwara Eliya Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Nuwara Eliya",
+      "duration": 3,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/1.jpg",
+          "name": "Nuwara Eliya Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/2.jpg",
+          "name": "Nuwara Eliya View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+          "name": "Nuwara Eliya Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/4.jpg",
+          "name": "Nuwara Eliya Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 7,
+      "interest": "Beach",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+        }
+      ],
+      "nights": 3,
+      "notes": "",
+      "saved_at": "2026-04-25 07:13",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+        "name": "Nuwara Eliya Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Nuwara Eliya for 3 night(s), traveling by Train, staying at Nuwara Eliya Comfort Resort.",
+      "transport": "Train",
+      "travelDate": "2026-04-29",
+      "travelers": 2,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 22:33"
+  },
+  {
+    "id": 21,
+    "booking_ref": "PG-20260425-0021",
+    "user": "admin",
+    "destination": "Nuwara Eliya",
+    "hotel": "Nuwara Eliya Comfort Resort",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 100500,
+    "hotelTotal": 100500,
+    "tripBudget": 147900,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 100500,
+      "transport": 12000,
+      "food": 18000,
+      "activities": 17400,
+      "estimate": 147900,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 2,
+      "hotelName": "Nuwara Eliya Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 100500,
+        "transport": 12000,
+        "food": 18000,
+        "activities": 17400,
+        "estimate": 147900,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 2,
+        "hotelName": "Nuwara Eliya Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Nuwara Eliya",
+      "duration": 3,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/1.jpg",
+          "name": "Nuwara Eliya Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/2.jpg",
+          "name": "Nuwara Eliya View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+          "name": "Nuwara Eliya Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/4.jpg",
+          "name": "Nuwara Eliya Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 7,
+      "interest": "Beach",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+        }
+      ],
+      "nights": 3,
+      "notes": "",
+      "saved_at": "2026-04-25 07:13",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+        "name": "Nuwara Eliya Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Nuwara Eliya for 3 night(s), traveling by Train, staying at Nuwara Eliya Comfort Resort.",
+      "transport": "Train",
+      "travelDate": "2026-04-29",
+      "travelers": 2,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 22:34"
+  },
+  {
+    "id": 22,
+    "booking_ref": "PG-20260425-0022",
+    "user": "supun@gmail.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa Boutique Retreat",
+    "hotelImage": "/src/assets/hotels/mirissa/medium/1.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 26000,
+    "hotelTotal": 26000,
+    "tripBudget": 69900,
+    "transport": "Private Car",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 26000,
+      "transport": 36000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 69900,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Mirissa Boutique Retreat",
+      "hotelPricePerNight": 26000
+    },
+    "fullPlan": {
+      "destination": "Mirissa",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Beach",
+      "transport": "Private Car",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Mirissa for 1 night(s), traveling by Private Car, staying at Mirissa Boutique Retreat.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 26000,
+        "transport": 36000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 69900,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Mirissa Boutique Retreat",
+        "hotelPricePerNight": 26000
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Mirissa Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Mirissa View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Mirissa Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Mirissa Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/hotels/mirissa/medium/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-1",
+        "name": "Mirissa Boutique Retreat",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 26000,
+        "pricePerNight": 26000,
+        "price_per_night": 26000,
+        "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+        "source": "default",
+        "rating": "4.7",
+        "features": [
+          "Comfort stay",
+          "Better rooms",
+          "Popular pick"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-25 23:55"
+  },
+  {
+    "id": 23,
+    "booking_ref": "PG-20260426-0023",
+    "user": "supun@gmail.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa Boutique Retreat",
+    "hotelImage": "/src/assets/hotels/mirissa/medium/1.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 26000,
+    "hotelTotal": 26000,
+    "tripBudget": 69900,
+    "transport": "Private Car",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 26000,
+      "transport": 36000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 69900,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Mirissa Boutique Retreat",
+      "hotelPricePerNight": 26000
+    },
+    "fullPlan": {
+      "destination": "Mirissa",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Beach",
+      "transport": "Private Car",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Mirissa for 1 night(s), traveling by Private Car, staying at Mirissa Boutique Retreat.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 26000,
+        "transport": 36000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 69900,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Mirissa Boutique Retreat",
+        "hotelPricePerNight": 26000
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Mirissa Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Mirissa View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Mirissa Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Mirissa Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/hotels/mirissa/medium/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-1",
+        "name": "Mirissa Boutique Retreat",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 26000,
+        "pricePerNight": 26000,
+        "price_per_night": 26000,
+        "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+        "source": "default",
+        "rating": "4.7",
+        "features": [
+          "Comfort stay",
+          "Better rooms",
+          "Popular pick"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 00:13"
+  },
+  {
+    "id": 24,
+    "booking_ref": "PG-20260426-0024",
+    "user": "supun@gmail.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa Boutique Retreat",
+    "hotelImage": "/src/assets/hotels/mirissa/medium/1.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 26000,
+    "hotelTotal": 26000,
+    "tripBudget": 69900,
+    "transport": "Private Car",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 26000,
+      "transport": 36000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 69900,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Mirissa Boutique Retreat",
+      "hotelPricePerNight": 26000
+    },
+    "fullPlan": {
+      "destination": "Mirissa",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Beach",
+      "transport": "Private Car",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Mirissa for 1 night(s), traveling by Private Car, staying at Mirissa Boutique Retreat.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 26000,
+        "transport": 36000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 69900,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Mirissa Boutique Retreat",
+        "hotelPricePerNight": 26000
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Mirissa Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Mirissa View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Mirissa Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Mirissa Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/hotels/mirissa/medium/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-1",
+        "name": "Mirissa Boutique Retreat",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 26000,
+        "pricePerNight": 26000,
+        "price_per_night": 26000,
+        "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+        "source": "default",
+        "rating": "4.7",
+        "features": [
+          "Comfort stay",
+          "Better rooms",
+          "Popular pick"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 01:19"
+  },
+  {
+    "id": 25,
+    "booking_ref": "PG-20260426-0025",
+    "user": "supun@gmail.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa Boutique Retreat",
+    "hotelImage": "/src/assets/hotels/mirissa/medium/1.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 26000,
+    "hotelTotal": 26000,
+    "tripBudget": 69900,
+    "transport": "Private Car",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 26000,
+      "transport": 36000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 69900,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Mirissa Boutique Retreat",
+      "hotelPricePerNight": 26000
+    },
+    "fullPlan": {
+      "destination": "Mirissa",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Beach",
+      "transport": "Private Car",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Mirissa for 1 night(s), traveling by Private Car, staying at Mirissa Boutique Retreat.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 26000,
+        "transport": 36000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 69900,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Mirissa Boutique Retreat",
+        "hotelPricePerNight": 26000
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Mirissa Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Mirissa View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Mirissa Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Mirissa Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/hotels/mirissa/medium/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-1",
+        "name": "Mirissa Boutique Retreat",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 26000,
+        "pricePerNight": 26000,
+        "price_per_night": 26000,
+        "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+        "source": "default",
+        "rating": "4.7",
+        "features": [
+          "Comfort stay",
+          "Better rooms",
+          "Popular pick"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 01:30"
+  },
+  {
+    "id": 26,
+    "booking_ref": "PG-20260426-0026",
+    "user": "supun@gmail.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa Boutique Retreat",
+    "hotelImage": "/src/assets/hotels/mirissa/medium/1.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 26000,
+    "hotelTotal": 26000,
+    "tripBudget": 69900,
+    "transport": "Private Car",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 26000,
+      "transport": 36000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 69900,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Mirissa Boutique Retreat",
+      "hotelPricePerNight": 26000
+    },
+    "fullPlan": {
+      "destination": "Mirissa",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Beach",
+      "transport": "Private Car",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Mirissa for 1 night(s), traveling by Private Car, staying at Mirissa Boutique Retreat.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 26000,
+        "transport": 36000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 69900,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Mirissa Boutique Retreat",
+        "hotelPricePerNight": 26000
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Mirissa Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Mirissa View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Mirissa Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Mirissa Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/hotels/mirissa/medium/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-1",
+        "name": "Mirissa Boutique Retreat",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 26000,
+        "pricePerNight": 26000,
+        "price_per_night": 26000,
+        "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+        "source": "default",
+        "rating": "4.7",
+        "features": [
+          "Comfort stay",
+          "Better rooms",
+          "Popular pick"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 01:33"
+  },
+  {
+    "id": 27,
+    "booking_ref": "PG-20260426-0027",
+    "user": "supun@gmail.com",
+    "destination": "Kandy",
+    "hotel": "Kandy Boutique Retreat",
+    "hotelImage": "/src/assets/hotels/kandy/medium/1.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 26000,
+    "hotelTotal": 26000,
+    "tripBudget": 69900,
+    "transport": "Private Car",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Kandy, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 26000,
+      "transport": 36000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 69900,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Kandy Boutique Retreat",
+      "hotelPricePerNight": 26000
+    },
+    "fullPlan": {
+      "destination": "Kandy",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Beach",
+      "transport": "Private Car",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Kandy for 1 night(s), traveling by Private Car, staying at Kandy Boutique Retreat.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Kandy, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 26000,
+        "transport": 36000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 69900,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Kandy Boutique Retreat",
+        "hotelPricePerNight": 26000
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Kandy Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/kandy/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Kandy View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/kandy/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Kandy Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/kandy/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Kandy Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/places/kandy/1.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-1",
+        "name": "Kandy Boutique Retreat",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 26000,
+        "pricePerNight": 26000,
+        "price_per_night": 26000,
+        "image": "/src/assets/hotels/kandy/medium/1.jpg",
+        "source": "default",
+        "rating": "4.7",
+        "features": [
+          "Comfort stay",
+          "Better rooms",
+          "Popular pick"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 02:16"
+  },
+  {
+    "id": 28,
+    "booking_ref": "PG-20260426-0028",
+    "user": "supun@gmail.com",
+    "destination": "Kandy",
+    "hotel": "Kandy Boutique Retreat",
+    "hotelImage": "/src/assets/hotels/kandy/medium/1.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 26000,
+    "hotelTotal": 26000,
+    "tripBudget": 69900,
+    "transport": "Private Car",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Kandy, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 26000,
+      "transport": 36000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 69900,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Kandy Boutique Retreat",
+      "hotelPricePerNight": 26000
+    },
+    "fullPlan": {
+      "destination": "Kandy",
+      "nights": 1,
+      "duration": 1,
+      "budgetLevel": "Medium",
+      "budget": null,
+      "interest": "Beach",
+      "transport": "Private Car",
+      "travelers": 1,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Medium trip to Kandy for 1 night(s), traveling by Private Car, staying at Kandy Boutique Retreat.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Kandy, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 26000,
+        "transport": 36000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 69900,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Kandy Boutique Retreat",
+        "hotelPricePerNight": 26000
+      },
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Kandy Boutique Retreat",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/kandy/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Kandy View Residence",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/kandy/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Kandy Comfort Resort",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/kandy/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Kandy Central Stay",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/places/kandy/1.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Medium-1",
+        "name": "Kandy Boutique Retreat",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 26000,
+        "pricePerNight": 26000,
+        "price_per_night": 26000,
+        "image": "/src/assets/hotels/kandy/medium/1.jpg",
+        "source": "default",
+        "rating": "4.7",
+        "features": [
+          "Comfort stay",
+          "Better rooms",
+          "Popular pick"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Medium",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 02:32"
+  },
+  {
+    "id": 29,
+    "booking_ref": "PG-20260426-0029",
+    "user": "supun@gmail.com",
+    "destination": "Ella",
+    "hotel": "Ella Central Stay",
+    "hotelImage": "/src/assets/hotels/ella/medium/4.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-04-30",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 38000,
+    "hotelTotal": 38000,
+    "tripBudget": 50900,
+    "transport": "Bus",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Nature",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Ella, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 38000,
+      "transport": 5000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 50900,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Ella Central Stay",
+      "hotelPricePerNight": 38000
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 38000,
+        "transport": 5000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 50900,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Ella Central Stay",
+        "hotelPricePerNight": 38000
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Ella",
+      "duration": 1,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/ella/medium/1.jpg",
+          "name": "Ella Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/ella/medium/2.jpg",
+          "name": "Ella View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/ella/medium/3.jpg",
+          "name": "Ella Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/ella/medium/4.jpg",
+          "name": "Ella Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 10,
+      "interest": "Nature",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Ella, enjoy activities and local food."
+        }
+      ],
+      "nights": 1,
+      "notes": "",
+      "saved_at": "2026-04-26 04:26",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "features": [
+          "Central area",
+          "Easy travel",
+          "Balanced price"
+        ],
+        "id": "Medium-4",
+        "image": "/src/assets/hotels/ella/medium/4.jpg",
+        "name": "Ella Central Stay",
+        "price": 38000,
+        "pricePerNight": 38000,
+        "price_per_night": 38000,
+        "rating": "5.0",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Ella for 1 night(s), traveling by Bus, staying at Ella Central Stay.",
+      "transport": "Bus",
+      "travelDate": "2026-04-29",
+      "travelers": 1,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 04:26"
+  },
+  {
+    "id": 30,
+    "booking_ref": "PG-20260426-0030",
+    "user": "supun@gmail.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa Sapphire Luxury Villas",
+    "hotelImage": "/src/assets/hotels/mirissa/luxury/3.jpg",
+    "hotelDescription": "High-end luxury stay with premium comfort, elegant atmosphere, and exclusive travel experience.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 2,
+    "travelers": 4,
+    "total": 264000,
+    "hotelTotal": 264000,
+    "tripBudget": 462400,
+    "transport": "Bus",
+    "budgetLevel": "Luxury",
+    "hotelCategory": "Luxury",
+    "interest": "Luxury",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Mirissa, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 264000,
+      "transport": 20000,
+      "food": 96000,
+      "activities": 82400,
+      "estimate": 462400,
+      "balance": 0,
+      "nights": 2,
+      "travelers": 4,
+      "hotelName": "Mirissa Sapphire Luxury Villas",
+      "hotelPricePerNight": 132000
+    },
+    "fullPlan": {
+      "destination": "Mirissa",
+      "nights": 2,
+      "duration": 2,
+      "budgetLevel": "Luxury",
+      "budget": null,
+      "interest": "Luxury",
+      "transport": "Bus",
+      "travelers": 4,
+      "travelDate": "2026-04-30",
+      "checkoutDate": "",
+      "summary": "A Luxury trip to Mirissa for 2 night(s), traveling by Bus, staying at Mirissa Sapphire Luxury Villas.",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Mirissa, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Mirissa, enjoy activities and local food."
+        }
+      ],
+      "budgetInfo": {
+        "hotel": 264000,
+        "transport": 20000,
+        "food": 96000,
+        "activities": 82400,
+        "estimate": 462400,
+        "balance": 0,
+        "nights": 2,
+        "travelers": 4,
+        "hotelName": "Mirissa Sapphire Luxury Villas",
+        "hotelPricePerNight": 132000
+      },
+      "hotels": [
+        {
+          "id": "Luxury-1",
+          "name": "Mirissa Signature Resort & Spa",
+          "destination": "Mirissa",
+          "category": "Luxury",
+          "description": "High-end luxury stay with premium comfort, elegant atmosphere, and exclusive travel experience.",
+          "price": 105000,
+          "pricePerNight": 105000,
+          "price_per_night": 105000,
+          "image": "/src/assets/hotels/mirissa/luxury/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Spa comfort",
+            "Luxury service",
+            "Premium view"
+          ]
+        },
+        {
+          "id": "Luxury-2",
+          "name": "Mirissa Elite Escape",
+          "destination": "Mirissa",
+          "category": "Luxury",
+          "description": "High-end luxury stay with premium comfort, elegant atmosphere, and exclusive travel experience.",
+          "price": 118000,
+          "pricePerNight": 118000,
+          "price_per_night": 118000,
+          "image": "/src/assets/hotels/mirissa/luxury/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "Elite rooms",
+            "Fine dining",
+            "Signature stay"
+          ]
+        },
+        {
+          "id": "Luxury-3",
+          "name": "Mirissa Sapphire Luxury Villas",
+          "destination": "Mirissa",
+          "category": "Luxury",
+          "description": "High-end luxury stay with premium comfort, elegant atmosphere, and exclusive travel experience.",
+          "price": 132000,
+          "pricePerNight": 132000,
+          "price_per_night": 132000,
+          "image": "/src/assets/hotels/mirissa/luxury/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Private villa",
+            "Luxury design",
+            "Best photos"
+          ]
+        },
+        {
+          "id": "Luxury-4",
+          "name": "Mirissa Horizon Private Retreat",
+          "destination": "Mirissa",
+          "category": "Luxury",
+          "description": "High-end luxury stay with premium comfort, elegant atmosphere, and exclusive travel experience.",
+          "price": 150000,
+          "pricePerNight": 150000,
+          "price_per_night": 150000,
+          "image": "/src/assets/hotels/mirissa/luxury/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "VIP feeling",
+            "Ultra premium",
+            "Private retreat"
+          ]
+        }
+      ],
+      "selectedHotel": {
+        "id": "Luxury-3",
+        "name": "Mirissa Sapphire Luxury Villas",
+        "destination": "Mirissa",
+        "category": "Luxury",
+        "description": "High-end luxury stay with premium comfort, elegant atmosphere, and exclusive travel experience.",
+        "price": 132000,
+        "pricePerNight": 132000,
+        "price_per_night": 132000,
+        "image": "/src/assets/hotels/mirissa/luxury/3.jpg",
+        "source": "default",
+        "rating": "4.9",
+        "features": [
+          "Private villa",
+          "Luxury design",
+          "Best photos"
+        ]
+      },
+      "food": [
+        "Local restaurant"
+      ],
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "hotelCategory": "Luxury",
+      "season": "",
+      "notes": "",
+      "fromBooking": false,
+      "user": "supun@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 15:10"
+  },
+  {
+    "id": 31,
+    "booking_ref": "PG-20260426-0031",
+    "user": "geenethperera88@gmail.com",
+    "destination": "Ella",
+    "hotel": "Ella Comfort Resort",
+    "hotelImage": "/src/assets/hotels/ella/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-05-06",
+    "checkoutDate": "2026-05-07",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 33500,
+    "hotelTotal": 33500,
+    "tripBudget": 69400,
+    "transport": "Taxi",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Relax",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Ella, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 33500,
+      "transport": 28000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 69400,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Ella Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 33500,
+        "transport": 28000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 69400,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Ella Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Ella",
+      "duration": 1,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "destination": "Ella",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/ella/medium/1.jpg",
+          "name": "Ella Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "destination": "Ella",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/ella/medium/2.jpg",
+          "name": "Ella View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "destination": "Ella",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/ella/medium/3.jpg",
+          "name": "Ella Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "destination": "Ella",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/ella/medium/4.jpg",
+          "name": "Ella Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 11,
+      "interest": "Relax",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Ella, enjoy activities and local food."
+        }
+      ],
+      "nights": 1,
+      "notes": "",
+      "saved_at": "2026-04-26 22:10",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "destination": "Ella",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/ella/medium/3.jpg",
+        "name": "Ella Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Ella for 1 night(s), traveling by Taxi, staying at Ella Comfort Resort.",
+      "transport": "Taxi",
+      "travelDate": "2026-05-06",
+      "travelers": 1,
+      "user": "geenethperera88@gmail.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 22:11"
+  },
+  {
+    "id": 32,
+    "booking_ref": "PG-20260426-0032",
+    "user": "admin",
+    "destination": "Nuwara Eliya",
+    "hotel": "Nuwara Eliya Comfort Resort",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 100500,
+    "hotelTotal": 100500,
+    "tripBudget": 147900,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 100500,
+      "transport": 12000,
+      "food": 18000,
+      "activities": 17400,
+      "estimate": 147900,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 2,
+      "hotelName": "Nuwara Eliya Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 100500,
+        "transport": 12000,
+        "food": 18000,
+        "activities": 17400,
+        "estimate": 147900,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 2,
+        "hotelName": "Nuwara Eliya Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Nuwara Eliya",
+      "duration": 3,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/1.jpg",
+          "name": "Nuwara Eliya Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/2.jpg",
+          "name": "Nuwara Eliya View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+          "name": "Nuwara Eliya Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/4.jpg",
+          "name": "Nuwara Eliya Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 7,
+      "interest": "Beach",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+        }
+      ],
+      "nights": 3,
+      "notes": "",
+      "saved_at": "2026-04-25 07:13",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+        "name": "Nuwara Eliya Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Nuwara Eliya for 3 night(s), traveling by Train, staying at Nuwara Eliya Comfort Resort.",
+      "transport": "Train",
+      "travelDate": "2026-04-29",
+      "travelers": 2,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 23:58"
+  },
+  {
+    "id": 33,
+    "booking_ref": "PG-20260426-0033",
+    "user": "admin",
+    "destination": "Nuwara Eliya",
+    "hotel": "Nuwara Eliya Comfort Resort",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 100500,
+    "hotelTotal": 100500,
+    "tripBudget": 147900,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 100500,
+      "transport": 12000,
+      "food": 18000,
+      "activities": 17400,
+      "estimate": 147900,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 2,
+      "hotelName": "Nuwara Eliya Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 100500,
+        "transport": 12000,
+        "food": 18000,
+        "activities": 17400,
+        "estimate": 147900,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 2,
+        "hotelName": "Nuwara Eliya Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "",
+      "destination": "Nuwara Eliya",
+      "duration": 3,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/1.jpg",
+          "name": "Nuwara Eliya Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/2.jpg",
+          "name": "Nuwara Eliya View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+          "name": "Nuwara Eliya Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/nuwara-eliya/medium/4.jpg",
+          "name": "Nuwara Eliya Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 7,
+      "interest": "Beach",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+        }
+      ],
+      "nights": 3,
+      "notes": "",
+      "saved_at": "2026-04-25 07:13",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/nuwara-eliya/medium/3.jpg",
+        "name": "Nuwara Eliya Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Nuwara Eliya for 3 night(s), traveling by Train, staying at Nuwara Eliya Comfort Resort.",
+      "transport": "Train",
+      "travelDate": "2026-04-29",
+      "travelers": 2,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-26 23:59"
+  },
+  {
+    "id": 34,
+    "booking_ref": "PG-20260427-0034",
+    "user": "admin",
+    "destination": "Nuwara Eliya",
+    "hotel": "Nuwara Eliya Grand Retreat",
+    "hotelImage": "/src/assets/hotels/nuwara-eliya/high/1.jpg",
+    "hotelDescription": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+    "date": "2026-04-29",
+    "checkoutDate": "2026-05-02",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 3,
+    "travelers": 2,
+    "total": 168000,
+    "hotelTotal": 168000,
+    "tripBudget": 248400,
+    "transport": "Train",
+    "budgetLevel": "High",
+    "hotelCategory": "High",
+    "interest": "Beach",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 2,
+        "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+      },
+      {
+        "day": 3,
+        "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 168000,
+      "transport": 12000,
+      "food": 36000,
+      "activities": 32400,
+      "estimate": 248400,
+      "balance": 0,
+      "nights": 3,
+      "travelers": 2,
+      "hotelName": "Nuwara Eliya Grand Retreat",
+      "hotelPricePerNight": 56000
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 168000,
+        "transport": 12000,
+        "food": 36000,
+        "activities": 32400,
+        "estimate": 248400,
+        "balance": 0,
+        "nights": 3,
+        "travelers": 2,
+        "hotelName": "Nuwara Eliya Grand Retreat",
+        "hotelPricePerNight": 56000
+      },
+      "budgetLevel": "High",
+      "checkoutDate": "",
+      "destination": "Nuwara Eliya",
+      "duration": 3,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "High",
+      "hotels": [
+        {
+          "id": "High-1",
+          "name": "Nuwara Eliya Grand Retreat",
+          "destination": "Nuwara Eliya",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 56000,
+          "pricePerNight": 56000,
+          "price_per_night": 56000,
+          "image": "/src/assets/hotels/nuwara-eliya/high/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Premium rooms",
+            "Scenic mood",
+            "Better service"
+          ]
+        },
+        {
+          "id": "High-2",
+          "name": "Nuwara Eliya Heritage Resort",
+          "destination": "Nuwara Eliya",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 62000,
+          "pricePerNight": 62000,
+          "price_per_night": 62000,
+          "image": "/src/assets/hotels/nuwara-eliya/high/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "Heritage style",
+            "Elegant",
+            "Photo friendly"
+          ]
+        },
+        {
+          "id": "High-3",
+          "name": "Nuwara Eliya Premium View Hotel",
+          "destination": "Nuwara Eliya",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 70000,
+          "pricePerNight": 70000,
+          "price_per_night": 70000,
+          "image": "/src/assets/hotels/nuwara-eliya/high/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "View point",
+            "Premium comfort",
+            "Relaxing"
+          ]
+        },
+        {
+          "id": "High-4",
+          "name": "Nuwara Eliya Royal Garden Stay",
+          "destination": "Nuwara Eliya",
+          "category": "High",
+          "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+          "price": 78000,
+          "pricePerNight": 78000,
+          "price_per_night": 78000,
+          "image": "/src/assets/hotels/nuwara-eliya/high/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Royal feel",
+            "Garden view",
+            "Top match"
+          ]
+        }
+      ],
+      "id": 8,
+      "interest": "Beach",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 2,
+          "plan": "Day 2: Explore Nuwara Eliya, enjoy activities and local food."
+        },
+        {
+          "day": 3,
+          "plan": "Day 3: Explore Nuwara Eliya, enjoy activities and local food."
+        }
+      ],
+      "nights": 3,
+      "notes": "",
+      "saved_at": "2026-04-25 07:46",
+      "season": "",
+      "selectedHotel": {
+        "id": "High-1",
+        "name": "Nuwara Eliya Grand Retreat",
+        "destination": "Nuwara Eliya",
+        "category": "High",
+        "description": "Premium stay with refined rooms, scenic surroundings, and stronger service quality.",
+        "price": 56000,
+        "pricePerNight": 56000,
+        "price_per_night": 56000,
+        "image": "/src/assets/hotels/nuwara-eliya/high/1.jpg",
+        "source": "default",
+        "rating": "4.7",
+        "features": [
+          "Premium rooms",
+          "Scenic mood",
+          "Better service"
+        ]
+      },
+      "summary": "A High trip to Nuwara Eliya for 3 night(s), traveling by Train, staying at Nuwara Eliya Grand Retreat.",
+      "transport": "Train",
+      "travelDate": "2026-04-29",
+      "travelers": 2,
+      "user": "admin"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-27 01:29"
+  },
+  {
+    "id": 35,
+    "booking_ref": "PG-20260427-0035",
+    "user": "staff1@test.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa View Residence",
+    "hotelImage": "/src/assets/hotels/mirissa/medium/2.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 29500,
+    "hotelTotal": 29500,
+    "tripBudget": 43400,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Nature",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore , enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 29500,
+      "transport": 6000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 43400,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Mirissa View Residence",
+      "hotelPricePerNight": 29500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 29500,
+        "transport": 6000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 43400,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Mirissa View Residence",
+        "hotelPricePerNight": 29500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "2026-05-01",
+      "destination": "Mirissa",
+      "duration": 1,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "id": "Medium-1",
+          "name": "Mirissa Boutique Retreat",
+          "destination": "Mirissa",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+          "source": "default",
+          "rating": "4.7",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ]
+        },
+        {
+          "id": "Medium-2",
+          "name": "Mirissa View Residence",
+          "destination": "Mirissa",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+          "source": "default",
+          "rating": "4.8",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ]
+        },
+        {
+          "id": "Medium-3",
+          "name": "Mirissa Comfort Resort",
+          "destination": "Mirissa",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+          "source": "default",
+          "rating": "4.9",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ]
+        },
+        {
+          "id": "Medium-4",
+          "name": "Mirissa Central Stay",
+          "destination": "Mirissa",
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "image": "/src/assets/hotels/mirissa/medium/4.jpg",
+          "source": "default",
+          "rating": "5.0",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ]
+        }
+      ],
+      "id": 12,
+      "interest": "Nature",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore , enjoy activities and local food."
+        }
+      ],
+      "nights": 1,
+      "notes": "",
+      "saved_at": "2026-04-27 06:29",
+      "season": "",
+      "selectedHotel": {
+        "id": "Medium-2",
+        "name": "Mirissa View Residence",
+        "destination": "Mirissa",
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "price": 29500,
+        "pricePerNight": 29500,
+        "price_per_night": 29500,
+        "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+        "source": "default",
+        "rating": "4.8",
+        "features": [
+          "View rooms",
+          "Cafe nearby",
+          "Smooth access"
+        ]
+      },
+      "summary": "A Medium trip to Mirissa for 1 night(s), traveling by Train, staying at Mirissa View Residence.",
+      "transport": "Train",
+      "travelDate": "2026-04-30",
+      "travelers": 1,
+      "tripTypes": [
+        "Nature"
+      ],
+      "user": "staff1@test.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-27 06:30"
+  },
+  {
+    "id": 36,
+    "booking_ref": "PG-20260427-0036",
+    "user": "staff1@test.com",
+    "destination": "Mirissa",
+    "hotel": "Mirissa Comfort Resort",
+    "hotelImage": "/src/assets/hotels/mirissa/medium/3.jpg",
+    "hotelDescription": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+    "date": "2026-04-30",
+    "checkoutDate": "2026-05-01",
+    "checkInTime": "11:00 AM",
+    "checkOutTime": "11:00 AM",
+    "nights": 1,
+    "travelers": 1,
+    "total": 33500,
+    "hotelTotal": 33500,
+    "tripBudget": 47400,
+    "transport": "Train",
+    "budgetLevel": "Medium",
+    "hotelCategory": "Medium",
+    "interest": "Nature",
+    "itinerary": [
+      {
+        "day": 1,
+        "plan": "Day 1: Explore , enjoy activities and local food."
+      }
+    ],
+    "food": [
+      "Local restaurant"
+    ],
+    "activities": [
+      "City tour",
+      "Explore"
+    ],
+    "budgetInfo": {
+      "hotel": 33500,
+      "transport": 6000,
+      "food": 3000,
+      "activities": 4900,
+      "estimate": 47400,
+      "balance": 0,
+      "nights": 1,
+      "travelers": 1,
+      "hotelName": "Mirissa Comfort Resort",
+      "hotelPricePerNight": 33500
+    },
+    "fullPlan": {
+      "activities": [
+        "City tour",
+        "Explore"
+      ],
+      "adminDestination": null,
+      "budget": null,
+      "budgetInfo": {
+        "hotel": 33500,
+        "transport": 6000,
+        "food": 3000,
+        "activities": 4900,
+        "estimate": 47400,
+        "balance": 0,
+        "nights": 1,
+        "travelers": 1,
+        "hotelName": "Mirissa Comfort Resort",
+        "hotelPricePerNight": 33500
+      },
+      "budgetLevel": "Medium",
+      "checkoutDate": "2026-05-01",
+      "destination": "Mirissa",
+      "duration": 1,
+      "food": [
+        "Local restaurant"
+      ],
+      "fromBooking": false,
+      "hotelCategory": "Medium",
+      "hotels": [
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "destination": "Mirissa",
+          "features": [
+            "Comfort stay",
+            "Better rooms",
+            "Popular pick"
+          ],
+          "id": "Medium-1",
+          "image": "/src/assets/hotels/mirissa/medium/1.jpg",
+          "name": "Mirissa Boutique Retreat",
+          "price": 26000,
+          "pricePerNight": 26000,
+          "price_per_night": 26000,
+          "rating": "4.7",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "destination": "Mirissa",
+          "features": [
+            "View rooms",
+            "Cafe nearby",
+            "Smooth access"
+          ],
+          "id": "Medium-2",
+          "image": "/src/assets/hotels/mirissa/medium/2.jpg",
+          "name": "Mirissa View Residence",
+          "price": 29500,
+          "pricePerNight": 29500,
+          "price_per_night": 29500,
+          "rating": "4.8",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "destination": "Mirissa",
+          "features": [
+            "Family friendly",
+            "Relaxing",
+            "Good service"
+          ],
+          "id": "Medium-3",
+          "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+          "name": "Mirissa Comfort Resort",
+          "price": 33500,
+          "pricePerNight": 33500,
+          "price_per_night": 33500,
+          "rating": "4.9",
+          "source": "default"
+        },
+        {
+          "category": "Medium",
+          "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+          "destination": "Mirissa",
+          "features": [
+            "Central area",
+            "Easy travel",
+            "Balanced price"
+          ],
+          "id": "Medium-4",
+          "image": "/src/assets/hotels/mirissa/medium/4.jpg",
+          "name": "Mirissa Central Stay",
+          "price": 38000,
+          "pricePerNight": 38000,
+          "price_per_night": 38000,
+          "rating": "5.0",
+          "source": "default"
+        }
+      ],
+      "id": 12,
+      "interest": "Nature",
+      "itinerary": [
+        {
+          "day": 1,
+          "plan": "Day 1: Explore , enjoy activities and local food."
+        }
+      ],
+      "nights": 1,
+      "notes": "",
+      "saved_at": "2026-04-27 06:29",
+      "season": "",
+      "selectedHotel": {
+        "category": "Medium",
+        "description": "Comfortable hotel option with better facilities, calm atmosphere, and good destination access.",
+        "destination": "Mirissa",
+        "features": [
+          "Family friendly",
+          "Relaxing",
+          "Good service"
+        ],
+        "id": "Medium-3",
+        "image": "/src/assets/hotels/mirissa/medium/3.jpg",
+        "name": "Mirissa Comfort Resort",
+        "price": 33500,
+        "pricePerNight": 33500,
+        "price_per_night": 33500,
+        "rating": "4.9",
+        "source": "default"
+      },
+      "summary": "A Medium trip to Mirissa for 1 night(s), traveling by Train, staying at Mirissa Comfort Resort.",
+      "transport": "Train",
+      "travelDate": "2026-04-30",
+      "travelers": 1,
+      "tripTypes": [
+        "Nature"
+      ],
+      "user": "staff1@test.com"
+    },
+    "status": "confirmed",
+    "created_at": "2026-04-27 13:51"
+  }
+]

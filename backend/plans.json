@@ -1,0 +1,206 @@
+[
+    {
+        "summary": "A -day  trip to  with a budget of LKR , designed for comfort and memorable experiences.",
+        "itinerary": [
+            "Day 1: Explore  with curated activities and relaxing experiences.",
+            "Day 2: Explore  with curated activities and relaxing experiences.",
+            "Day 3: Explore  with curated activities and relaxing experiences."
+        ],
+        "budget": {
+            "hotel": 45000,
+            "transport": 24000,
+            "food": 15000,
+            "activities": 18000,
+            "estimate": 102000,
+            "balance": -52000
+        },
+        "hotels": [
+            " Grand Resort",
+            " Luxury Suites",
+            " Premium Villa"
+        ],
+        "tips": [
+            "Book early for best prices",
+            "Keep one flexible day",
+            "Plan transport in advance"
+        ]
+    },
+    {
+        "summary": "A -day  trip to  with a budget of LKR , designed for comfort and memorable experiences.",
+        "itinerary": [
+            "Day 1: Explore  with curated activities and relaxing experiences.",
+            "Day 2: Explore  with curated activities and relaxing experiences.",
+            "Day 3: Explore  with curated activities and relaxing experiences."
+        ],
+        "budget": {
+            "hotel": 45000,
+            "transport": 24000,
+            "food": 15000,
+            "activities": 18000,
+            "estimate": 102000,
+            "balance": -52000
+        },
+        "hotels": [
+            " Grand Resort",
+            " Luxury Suites",
+            " Premium Villa"
+        ],
+        "tips": [
+            "Book early for best prices",
+            "Keep one flexible day",
+            "Plan transport in advance"
+        ]
+    },
+    {
+        "summary": "A -day  trip to  with a budget of LKR , designed for comfort and memorable experiences.",
+        "itinerary": [
+            "Day 1: Explore  with curated activities and relaxing experiences.",
+            "Day 2: Explore  with curated activities and relaxing experiences.",
+            "Day 3: Explore  with curated activities and relaxing experiences."
+        ],
+        "budget": {
+            "hotel": 45000,
+            "transport": 24000,
+            "food": 15000,
+            "activities": 18000,
+            "estimate": 102000,
+            "balance": -52000
+        },
+        "hotels": [
+            " Grand Resort",
+            " Luxury Suites",
+            " Premium Villa"
+        ],
+        "tips": [
+            "Book early for best prices",
+            "Keep one flexible day",
+            "Plan transport in advance"
+        ]
+    },
+    {
+        "destination": "Ella",
+        "nights": "1",
+        "budget": "200000",
+        "budgetLevel": "High",
+        "type": "Beach, Mountain, Adventure",
+        "travelers": "2",
+        "hotelLevel": "Luxury",
+        "transport": "Private Car",
+        "season": "Any Season",
+        "notes": "",
+        "summary": "A 1-night beach, mountain, adventure trip to Ella for 2 traveler(s), with a budget of LKR 200000, private car transport, and luxury accommodation, designed for comfort and memorable experiences.",
+        "itinerary": [
+            "Night 1: Enjoy curated beach, mountain, adventure experiences in Ella, with premium sightseeing, food, and relaxing activities."
+        ],
+        "budgetInfo": {
+            "hotel": 15000,
+            "transport": 8000,
+            "food": 5000,
+            "activities": 6000,
+            "estimate": 34000,
+            "balance": 166000
+        },
+        "hotels": [
+            "Ella Grand Palace Resort",
+            "Ella Royal Luxury Retreat",
+            "Ella Signature Private Villa"
+        ],
+        "tips": [
+            "Book early for better prices and availability.",
+            "Keep one flexible evening for rest or weather changes.",
+            "Carry essentials and confirm bookings in advance."
+        ]
+    },
+    {
+        "destination": "Mirissa",
+        "nights": "1",
+        "budget": "200000",
+        "budgetLevel": "High",
+        "type": "Luxury, Beach, Mountain",
+        "travelers": "2",
+        "hotelLevel": "Premium",
+        "transport": "Private Car",
+        "season": "Any Season",
+        "notes": "",
+        "summary": "A 1-night luxury, beach, mountain trip to Mirissa for 2 traveler(s), with a budget of LKR 200000, private car transport, and premium accommodation, designed for comfort and memorable experiences.",
+        "itinerary": [
+            "Night 1: Enjoy curated luxury, beach, mountain experiences in Mirissa, with premium sightseeing, food, and relaxing activities."
+        ],
+        "budgetInfo": {
+            "hotel": 15000,
+            "transport": 8000,
+            "food": 5000,
+            "activities": 6000,
+            "estimate": 34000,
+            "balance": 166000
+        },
+        "hotels": [
+            "Mirissa Premium Suites",
+            "Mirissa Elegant Stay Hotel",
+            "Mirissa Comfort View Resort"
+        ],
+        "tips": [
+            "Book early for better prices and availability.",
+            "Keep one flexible evening for rest or weather changes.",
+            "Carry essentials and confirm bookings in advance."
+        ]
+    },
+    {
+        "destination": "Sigiriya",
+        "nights": "1",
+        "budget": "60000",
+        "budgetLevel": "Low",
+        "type": "Luxury",
+        "travelers": "2",
+        "hotelLevel": "Premium",
+        "transport": "Private Car",
+        "season": "Any Season",
+        "notes": "",
+        "summary": "A 1-night luxury trip to Sigiriya for 2 traveler(s), with a budget of LKR 60000, private car transport, and premium accommodation, designed for comfort and memorable experiences.",
+        "itinerary": [
+            "Night 1: Enjoy curated luxury experiences in Sigiriya, with premium sightseeing, food, and relaxing activities."
+        ],
+        "budgetInfo": {
+            "hotel": 15000,
+            "transport": 8000,
+            "food": 5000,
+            "activities": 6000,
+            "estimate": 34000,
+            "balance": 26000
+        },
+        "hotels": [
+            "Sigiriya Premium Suites",
+            "Sigiriya Elegant Stay Hotel",
+            "Sigiriya Comfort View Resort"
+        ],
+        "tips": [
+            "Book early for better prices and availability.",
+            "Keep one flexible evening for rest or weather changes.",
+            "Carry essentials and confirm bookings in advance."
+        ]
+    },
+    {
+        "summary": "\nA 2-night medium trip to Sigiriya.\nIncludes premium experiences, comfortable travel, and curated stays.\n",
+        "itinerary": [
+            "Night 1: Climb Sigiriya Rock Fortress",
+            "Night 2: Pidurangala Sunrise Hike"
+        ],
+        "hotels": [
+            "Sigiriya Village Hotel",
+            "Hotel Sigiriya"
+        ],
+        "activities": [
+            "Climb Sigiriya Rock Fortress",
+            "Pidurangala Sunrise Hike",
+            "Village Safari Tour",
+            "Dambulla Cave Temple Visit"
+        ],
+        "budget": {
+            "hotel": 20000,
+            "food": 8000,
+            "activities": 10000,
+            "transport": 16000,
+            "total": 54000
+        }
+    }
+]
